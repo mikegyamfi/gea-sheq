@@ -21,6 +21,7 @@ h1, h2, h5{
 .hero-section{
     height: 70vh;
     padding: 100px 60px;
+    margin-bottom: 30px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -456,7 +457,7 @@ input[type=text]:focus{
     }
 
     .hero-section{
-        height: 60vh;
+        height: 70vh;
         padding: 80px 30px;
     }
 
@@ -555,11 +556,11 @@ input[type=text]:focus{
 
     .hero-section{
         padding: 80px 30px;
-        height: 50vh;
+        height: 60vh;
     }
 
     .about-hero-section{
-        height: 40vh;
+        height: 50vh;
         padding: 100px 30px;
     }
 
@@ -644,12 +645,12 @@ input[type=text]:focus{
 
     .hero-section{
         padding: 80px 20px;
-        height: 50vh;
+        height: 60vh;
     }
 
     .about-hero-section{
         padding: 100px 20px;
-        height: 40vh;
+        height: 50vh;
     }
 
     .concerns-div{
