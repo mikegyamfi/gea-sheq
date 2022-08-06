@@ -31,7 +31,7 @@ h1, h2, h5{
 .about-hero-section{
     height: auto;
     padding: 100px 60px;
-    background-position: unset;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url('../images/about-hero-image.png');
