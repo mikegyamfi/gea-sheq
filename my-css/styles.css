@@ -485,6 +485,10 @@ input[type=text]:focus{
         display: block;
         width: 60%;
     }
+    
+    .did-you-know{
+        width: 75%;
+    }
 
     .footer-links{
         margin-top: 20px;
@@ -567,6 +571,10 @@ input[type=text]:focus{
     .hero-section{
         padding: 100px 30px;
         height: 65vh;
+    }
+    
+    .did-you-know{
+        width: 80%;
     }
 
     .about-hero-section{
@@ -651,6 +659,10 @@ input[type=text]:focus{
         background-color: #BD0A31;
         height: auto;
         padding: 10px 10px;
+    }
+    
+    .did-you-know{
+        width: 85%;
     }
 
     .hero-section{
