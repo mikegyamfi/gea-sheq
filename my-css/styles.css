@@ -390,7 +390,7 @@ input[type=text]:focus{
     }
 
     .about-hero-section{
-        height: 50vh;
+        height: 40vh;
         padding: 100px 50px;
     }
 
@@ -456,12 +456,12 @@ input[type=text]:focus{
     }
 
     .hero-section{
-        height: 70vh;
+        height: 60vh;
         padding: 80px 30px;
     }
 
     .about-hero-section{
-        height: 50vh;
+        height: 40vh;
         padding: 100px 30px;
     }
 
@@ -555,7 +555,7 @@ input[type=text]:focus{
 
     .hero-section{
         padding: 80px 30px;
-        height: 50vh;
+        height: 40vh;
     }
 
     .about-hero-section{
@@ -644,7 +644,7 @@ input[type=text]:focus{
 
     .hero-section{
         padding: 80px 20px;
-        height: 50vh;
+        height: 40vh;
     }
 
     .about-hero-section{
