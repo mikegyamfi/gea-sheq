@@ -19,7 +19,7 @@ h1, h2, h5{
 }
 
 .hero-section{
-    height: 70vh;
+    height: auto;
     padding: 100px 60px;
     margin-bottom: 30px;
     background-position: center;
@@ -387,8 +387,14 @@ input[type=text]:focus{
     }
 
     .hero-section{
-        padding: 80px 50px;
-    }
+    height: auto;
+    padding: 80px 50px;
+    margin-bottom: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../images/hero-sec-img.png');
+}
 
     .about-hero-section{
         height: 40vh;
@@ -457,9 +463,14 @@ input[type=text]:focus{
     }
 
     .hero-section{
-        height: 60vh;
-        padding: 80px 30px;
-    }
+    height: auto;
+    padding: 80px 30px;
+    margin-bottom: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../images/hero-sec-img.png');
+}
 
     .about-hero-section{
         height: 40vh;
@@ -495,9 +506,14 @@ input[type=text]:focus{
     }
     
      .hero-section{
-        height: 65vh;
-        padding: 80px 30px;
-    }
+    height: auto;
+    padding: 80px 30px;
+    margin-bottom: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../images/hero-sec-img.png');
+}
 
     .about-hero-section{
         height: 40vh;
@@ -569,9 +585,14 @@ input[type=text]:focus{
     }
 
     .hero-section{
-        padding: 100px 30px;
-        height: 65vh;
-    }
+    height: auto;
+    padding: 80px 30px;
+    margin-bottom: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../images/hero-sec-img.png');
+}
     
     .did-you-know{
         width: 80%;
@@ -666,9 +687,14 @@ input[type=text]:focus{
     }
 
     .hero-section{
-        padding: 90px 20px;
-        height: 55vh;
-    }
+    height: auto;
+    padding: 80px 20px;
+    margin-bottom: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../images/hero-sec-img.png');
+}
 
     .about-hero-section{
         padding: 100px 20px;
