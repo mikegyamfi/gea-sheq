@@ -555,7 +555,7 @@ input[type=text]:focus{
     }
 
     .hero-section{
-        padding: 80px 30px;
+        padding: 70px 30px;
         height: 60vh;
     }
 
@@ -574,7 +574,7 @@ input[type=text]:focus{
     }
 
     .hero-title-div{
-        width: 70%;
+        width: 80%;
     }
 
     .contact-div{
@@ -590,7 +590,7 @@ input[type=text]:focus{
     }
 
     h1{
-        font-size: 28px;
+        font-size: 26px;
     }
 
     h2{
@@ -644,7 +644,7 @@ input[type=text]:focus{
     }
 
     .hero-section{
-        padding: 80px 20px;
+        padding: 70px 20px;
         height: 60vh;
     }
 
@@ -663,7 +663,7 @@ input[type=text]:focus{
     }
 
     .hero-title-div{
-        width: 80%;
+        width: 90%;
     }
 }
 
