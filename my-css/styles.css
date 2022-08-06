@@ -456,6 +456,7 @@ input[type=text]:focus{
     }
 
     .hero-section{
+        height: 70vh;
         padding: 80px 30px;
     }
 
@@ -471,10 +472,6 @@ input[type=text]:focus{
     .navbar-div{
         padding-left: 30px;
         padding-right: 30px;
-    }
-
-    .hero-section{
-        height: 60vh;
     }
 
     .hero-title-div{
@@ -558,10 +555,11 @@ input[type=text]:focus{
 
     .hero-section{
         padding: 80px 30px;
+        height: 50vh;
     }
 
     .about-hero-section{
-        height: 50vh;
+        height: 40vh;
         padding: 100px 30px;
     }
 
@@ -572,10 +570,6 @@ input[type=text]:focus{
     .navbar-div{
         padding-left: 30px;
         padding-right: 30px;
-    }
-
-    .hero-section{
-        height: 50vh;
     }
 
     .hero-title-div{
@@ -650,11 +644,12 @@ input[type=text]:focus{
 
     .hero-section{
         padding: 80px 20px;
+        height: 50vh;
     }
 
     .about-hero-section{
         padding: 100px 20px;
-        height: 50vh;
+        height: 40vh;
     }
 
     .concerns-div{
@@ -664,10 +659,6 @@ input[type=text]:focus{
     .navbar-div{
         padding-left: 20px;
         padding-right: 20px;
-    }
-
-    .hero-section{
-        height: 50vh;
     }
 
     .hero-title-div{
