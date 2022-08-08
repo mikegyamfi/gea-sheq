@@ -122,23 +122,26 @@ h1, h2, h5{
   color: #bd0a31;
 }
 
-.footer{
-    padding: 40px 60px 20px 60px;
-    height: auto;
-    background-color: #FFFF;
-    color: white;
+.footer {
+  text-align: center;
+  padding: 60px auto 20px auto;
+  height: auto;
 }
 
-.footer-content{
-    display: flex;
-    margin-bottom: 30px;
-    justify-content: space-between;
+.footer-content {
+  margin-left: 60px;
+  margin-right: 60px;
+  text-align: center;
+  width: auto;
+  padding-top: 30px;
+  margin-bottom: 30px;
+  justify-content: space-between;
 }
 
-.footer-link{
-    text-decoration: none;
-    margin-left: 20px;
-    color: #3BA015;
+.footer-link {
+  text-decoration: none;
+  color: #2d0a11;
+  margin-left: 20px;
 }
 
 .footer-logo{
@@ -299,12 +302,15 @@ input[type=text]:focus{
         margin: 30px 0;
     }
 
-    .footer{
-        padding: 40px 50px 20px 50px;
-        height: auto;
-        background-color: #FFFF;
-        color: white;
-    }
+  .footer-content {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    width: auto;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+  }
     
 
     .hero-section{
@@ -384,12 +390,15 @@ input[type=text]:focus{
         padding: 30px 50px;
     }
 
-    .footer{
-        padding: 40px 50px 20px 50px;
-        height: auto;
-        background-color: #FFFF;
-        color: white;
-    }
+  .footer-content {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    width: auto;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+  }
 
     .concerns-div{
         margin: 30px 0;
@@ -457,12 +466,15 @@ input[type=text]:focus{
         padding: 30px 30px;
     }
 
-    .footer{
-        padding: 40px 30px 10px 30px;
-        height: auto;
-        background-color: #FFFF;
-        color: white;
-    }
+  .footer-content {
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    width: auto;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+  }
 
     .card-div{
         margin-bottom: 25px;
@@ -530,10 +542,6 @@ input[type=text]:focus{
 }
 
 @media screen and (max-width:700px) {
-    .footer-content{
-        display: block;
-        width: 60%;
-    }
     
     .did-you-know{
         width: 75%;
@@ -593,13 +601,15 @@ input[type=text]:focus{
         padding: 30px 30px;
     }
 
-    .footer{
-        padding: 40px 30px 10px 30px;
-        height: auto;
-        background-color: #FFFF;
-        color: white;
-    }
-    
+  .footer-content {
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    width: auto;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+  }
     .cert-body{
         width: 90%;
     }
@@ -694,12 +704,15 @@ input[type=text]:focus{
         padding: 20px 20px;
     }
 
-    .footer{
-        padding: 30px 20px 10px 20px;
-        height: auto;
-        background-color: #FFFF;
-        color: white;
-    }
+  .footer-content {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    width: auto;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+  }
     
 
     .courses-div{
