@@ -1,120 +1,121 @@
-body{
-    font-family: 'Poppins', sans-serif;
-    background-color: #F5F5F5;
-    color: #2D0A11;
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f5f5f5;
+  color: #2d0a11;
 }
 
-h1, h2, h5{
-    font-family: 'Lora', serif;
-    color: #2D0A11;
+h1,
+h2,
+h5 {
+  font-family: "Lora", serif;
+  color: #2d0a11;
 }
 
-.navbar-div{
-    padding-left: 60px;
-    padding-right: 60px;
+.navbar-div {
+  padding-left: 60px;
+  padding-right: 60px;
 }
 
-.contact-btn{
-    background-color: #BD0A31;
+.contact-btn {
+  background-color: #bd0a31;
 }
 
-.hero-section{
-    height: auto;
-    padding: 100px 60px;
-    margin-bottom: 30px;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('../images/hero-sec-img.png');
+.hero-section {
+  height: auto;
+  padding: 100px 60px;
+  margin-bottom: 30px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../images/hero-sec-img.png");
 }
 
-.about-hero-section{
-    height: auto;
-    padding: 100px 60px;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('../images/about-hero-image.png');
+.about-hero-section {
+  height: auto;
+  padding: 100px 60px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../images/about-hero-image.png");
 }
 
-.hero-title-div{
-    width: 50%;
-    margin-right: auto;
+.hero-title-div {
+  width: 50%;
+  margin-right: auto;
 }
 
-.tour-btn{
-    background-color: #BD0A31;
+.tour-btn {
+  background-color: #bd0a31;
 }
 
-.body-container{
-    padding: 40px 60px;
+.body-container {
+  padding: 40px 60px;
 }
 
-.hr{
-    height: 2px;
-    background-color: #3BA015;
-    width: 20%;
+.hr {
+  height: 2px;
+  background-color: #3ba015;
+  width: 20%;
 }
 
-.did-you-know{
-    text-align: center;
-    background-color: #FFFF;
-    width: 30%;
-    margin: 20px auto;
-    padding: 20px;
-    height: auto;
-    border: 0 solid #67DB3C;
-    box-shadow: 8px 8px 8px -4px #B1EE9B;
+.did-you-know {
+  text-align: center;
+  background-color: #ffff;
+  width: 30%;
+  margin: 20px auto;
+  padding: 20px;
+  height: auto;
+  border: 0 solid #67db3c;
+  box-shadow: 8px 8px 8px -4px #b1ee9b;
 }
 
-.concerns-div{
-    margin: 40px 0;
-    height: 90%;
-    padding: 30px 60px;
-    background-color: #BD0A31;
+.concerns-div {
+  margin: 40px 0;
+  height: 90%;
+  padding: 30px 60px;
+  background-color: #bd0a31;
 }
 
-.concern-card-title-div{
-    height: 20%;
+.concern-card-title-div {
+  height: 20%;
 }
 
-.card-div{
-    margin-bottom: 40px;
+.card-div {
+  margin-bottom: 40px;
 }
 
-.contact-us-btn{
-    background-color: #3BA015;
+.contact-us-btn {
+  background-color: #3ba015;
 }
 
-.courses-div{
-    padding: 30px 60px;
-    height: 80%;
+.courses-div {
+  padding: 30px 60px;
+  height: 80%;
 }
 
-.course{
-    border: 0px solid #F2889F;
+.course {
+  border: 0px solid #f2889f;
 }
 
-
-.services-card-header{
-    background-color: #BD0A31;
-    height: auto;
-    padding: 20px 20px;
+.services-card-header {
+  background-color: #bd0a31;
+  height: auto;
+  padding: 20px 20px;
 }
 
-.services-card-body{
-    background-color: #BD0A31;
-    opacity: 80%;
+.services-card-body {
+  background-color: #bd0a31;
+  opacity: 80%;
 }
 
-.explore-more-button-div{
-    margin: 30px auto;
-    text-align: center;
+.explore-more-button-div {
+  margin: 30px auto;
+  text-align: center;
 }
 
-.explore-more-btn{
-    border: 1px solid #BD0A31;
-    color: #BD0A31;
+.explore-more-btn {
+  border: 1px solid #bd0a31;
+  color: #bd0a31;
 }
 
 .explore-more-btn:hover {
@@ -140,105 +141,104 @@ h1, h2, h5{
 
 .footer-link {
   text-decoration: none;
+  justify-content: space-between;
   color: #2d0a11;
-  margin-left: 20px;
+  margin-left: 50px;
 }
 
-.footer-logo{
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
-    margin-bottom: 10px;
+.footer-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 10px;
 }
 
-.mail-btn{
-    margin: 20px 0;
-    color: #3BA015;
-    border: 1px solid #3BA015;
+.mail-btn {
+  margin: 20px 0;
+  color: #3ba015;
+  border: 1px solid #3ba015;
 }
 
-.social-media-links{
-    display: flex;
-    justify-content: space-between;
+.social-media-links {
+  display: flex;
+  justify-content: space-between;
 }
-
 
 /* ------------------------------------------Contact Page CSS----------------------------------------------------------- */
-#contact-body{
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('../images/conatct-pg-bg.png');
+#contact-body {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../images/conatct-pg-bg.png");
 }
 
-.contact-form{
-    margin: 30px 0;
+.contact-form {
+  margin: 30px 0;
 }
 
-.input-label{
-    margin-bottom: 20px;
-    display: block;
+.input-label {
+  margin-bottom: 20px;
+  display: block;
 }
 
-.contact-div{
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    box-shadow: 20px 10px 10px -4px #5E5E5E;
+.contact-div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  box-shadow: 20px 10px 10px -4px #5e5e5e;
 }
 
-.form-div{
-    padding: 40px 30px;
-    background-color: #FFFF;
+.form-div {
+  padding: 40px 30px;
+  background-color: #ffff;
 }
 
-.contact-info-div{
-    color: white;
-    padding: 40px 30px;
-    background-color: #BD0A31;
-
+.contact-info-div {
+  color: white;
+  padding: 40px 30px;
+  background-color: #bd0a31;
 }
 
-.contact-infos{
-    margin-top: 40px;
+.contact-infos {
+  margin-top: 40px;
 }
 
-.ind-cont{
-    margin-bottom: 20px;
+.ind-cont {
+  margin-bottom: 20px;
 }
 
-.form-row{
-    margin-bottom: 70px;
+.form-row {
+  margin-bottom: 70px;
 }
 
-.text-area-input{
-    width: 100%;
-    height: 80px;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 2px solid #3BA015;
-    background-color: transparent;
+.text-area-input {
+  width: 100%;
+  height: 80px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #3ba015;
+  background-color: transparent;
 }
 
-.text-area-input:focus{
-    outline: none;
-    width: 100%;
-    height: 80px;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 2px solid #3BA015;
-    background-color: transparent;
+.text-area-input:focus {
+  outline: none;
+  width: 100%;
+  height: 80px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #3ba015;
+  background-color: transparent;
 }
 
-.c-input{
-    outline: none;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom-color: #3BA015;
-    background-color: transparent;
+.c-input {
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom-color: #3ba015;
+  background-color: transparent;
 }
 
 /* Chrome, Safari, Edge, Opera */
@@ -249,146 +249,94 @@ input::-webkit-inner-spin-button {
 }
 
 /* Firefox */
-input[type=number] {
+input[type="number"] {
   -moz-appearance: textfield;
 }
 
-input[type=text]:focus{
-    border-bottom-color: #3BA015;
+input[type="text"]:focus {
+  border-bottom-color: #3ba015;
 }
 
-.send-message-btn{
-    border: 2px solid #3BA015;
-    margin-top: 20px;
+.send-message-btn {
+  border: 2px solid #3ba015;
+  margin-top: 20px;
 }
 
 /* --------------------------------------------------------------------------------------------------------------------- */
+
+/* -------------------------------------------------------Gallery CSS--------------------------------------------------- */
+
+.gallery-hr {
+  background-color: #3ba015;
+  height: 2px;
+  margin-bottom: 30px;
+}
+
+.pic-grid {
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+  height: 300px;
+}
+
+.grid-image{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.iosh-logo-div{
+    background-image: url('../images/gallery/iosh-logo.jpg');
+    height: 200px;
+    width: 300px;
+    margin: 30px auto 30px auto;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------ */
 
 /* ------------------------------------------------Services CSS--------------------------------------------------------- */
 
-.cert{
-    margin-bottom: 40px;
+.cert {
+  margin-bottom: 40px;
 }
 
-.cert-body{
-    width: 70%;
+.cert-body {
+  width: 70%;
 }
 
 /* --------------------------------------------------------------------------------------------------------------------- */
-@media screen and (max-width:1050px){
-    .did-you-know{
-        width: 40%;
-    }
-
-    .courses-div{
-        padding: 30px 50px;
-    }
-
-    .course{
-        border: 0px solid #F2889F;
-    }
-
-    .contact-div{
-        margin-left: auto;
-        margin-right: auto;
-        width: 90%;
-    }
-
-    .body-container{
-        padding: 40px 50px;
-    }
-
-    .concerns-div{
-        margin: 30px 0;
-    }
-
-  .footer-content {
-    margin-left: 50px;
-    margin-right: 50px;
-    text-align: center;
-    width: auto;
-    padding-top: 30px;
-    margin-bottom: 30px;
-    justify-content: space-between;
+@media screen and (max-width: 1050px) {
+  .did-you-know {
+    width: 40%;
   }
-    
 
-    .hero-section{
-    height: auto;
-    padding: 80px 50px;
-    margin-bottom: 30px;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('../images/hero-sec-img.png');
-}
+  .courses-div {
+    padding: 30px 50px;
+  }
 
-    .about-hero-section{
-    height: auto;
-    padding: 80px 50px;
-    background-position: unset;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('../images/about-hero-image.png');
-}
+  .course {
+    border: 0px solid #f2889f;
+  }
 
-    .navbar-div{
-        padding-left: 50px;
-        padding-right: 50px;
-    }
-}
+  .contact-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
 
-@media screen and (max-width:990px) {
-    .form-row{
-        margin-bottom: 0;
-    }
+  .body-container {
+    padding: 40px 50px;
+  }
 
-    input{
-        margin-bottom: 30px;
-    }
-
-    .input-label{
-        margin-bottom: 10px;
-    }
-    
-        .hero-section{
-    height: auto;
-    padding: 80px 50px;
-    margin-bottom: 30px;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('../images/hero-sec-img.png');
-}
-
-.about-hero-section{
-    height: auto;
-    padding: 80px 50px;
-    background-position: unset;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('../images/about-hero-image.png');
-}
-
-    .cert-body{
-        width: 80%;
-    }
-
-    .contact-div{
-        margin-left: auto;
-        margin-right: auto;
-        width: 90%;
-        box-shadow: 0 0 0 black;
-    }
-}
-
-@media screen and (max-width:900px){
-    .did-you-know{
-        width: 45%;
-    }
-    .body-container{
-        padding: 30px 50px;
-    }
+  .concerns-div {
+    margin: 30px 0;
+  }
 
   .footer-content {
     margin-left: 50px;
@@ -400,71 +348,157 @@ input[type=text]:focus{
     justify-content: space-between;
   }
 
-    .concerns-div{
-        margin: 30px 0;
-    }
-
-    .contact-div{
-        margin-left: auto;
-        margin-right: auto;
-        width: 90%;
-    }
-    
-
-    .courses-div{
-        padding: 30px 50px;
-    }
-
-    .course{
-        border: 0 none #F2889F;
-    }
-
-    .services-card-header{
-        background-color: #BD0A31;
-        height: 30%;
-        padding: 20px 20px;
-    }
-
-    .hero-section{
+  .hero-section {
     height: auto;
     padding: 80px 50px;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/hero-sec-img.png');
-}
+    background-image: url("../images/hero-sec-img.png");
+  }
 
-    .about-hero-section{
+  .about-hero-section {
     height: auto;
     padding: 80px 50px;
     background-position: unset;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/about-hero-image.png');
+    background-image: url("../images/about-hero-image.png");
+  }
+
+  .navbar-div {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
 }
 
-    .concerns-div{
-        padding: 40px 50px;
-    }
+@media screen and (max-width: 990px) {
+  .form-row {
+    margin-bottom: 0;
+  }
 
-    .navbar-div{
-        padding-left: 50px;
-        padding-right: 50px;
-    }
+  input {
+    margin-bottom: 30px;
+  }
 
-    .hero-title-div{
-        width: 60%;
-    }
+  .input-label {
+    margin-bottom: 10px;
+  }
+
+  .hero-section {
+    height: auto;
+    padding: 80px 50px;
+    margin-bottom: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/hero-sec-img.png");
+  }
+
+  .about-hero-section {
+    height: auto;
+    padding: 80px 50px;
+    background-position: unset;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/about-hero-image.png");
+  }
+
+  .cert-body {
+    width: 80%;
+  }
+
+  .contact-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    box-shadow: 0 0 0 black;
+  }
 }
 
-@media screen and (max-width:815px){
-    .did-you-know{
-        width: 55%;
-    }
-    .body-container{
-        padding: 30px 30px;
-    }
+@media screen and (max-width: 900px) {
+  .did-you-know {
+    width: 45%;
+  }
+  .body-container {
+    padding: 30px 50px;
+  }
+
+  .footer-content {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    width: auto;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+  }
+
+  .concerns-div {
+    margin: 30px 0;
+  }
+
+  .contact-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+
+  .courses-div {
+    padding: 30px 50px;
+  }
+
+  .course {
+    border: 0 none #f2889f;
+  }
+
+  .services-card-header {
+    background-color: #bd0a31;
+    height: 30%;
+    padding: 20px 20px;
+  }
+
+  .hero-section {
+    height: auto;
+    padding: 80px 50px;
+    margin-bottom: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/hero-sec-img.png");
+  }
+
+  .about-hero-section {
+    height: auto;
+    padding: 80px 50px;
+    background-position: unset;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/about-hero-image.png");
+  }
+
+  .concerns-div {
+    padding: 40px 50px;
+  }
+
+  .navbar-div {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .hero-title-div {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 815px) {
+  .did-you-know {
+    width: 55%;
+  }
+  .body-container {
+    padding: 30px 30px;
+  }
 
   .footer-content {
     margin-left: 30px;
@@ -476,130 +510,129 @@ input[type=text]:focus{
     justify-content: space-between;
   }
 
-    .card-div{
-        margin-bottom: 25px;
-    }
+  .card-div {
+    margin-bottom: 25px;
+  }
 
-    .contact-div{
-        margin-left: auto;
-        margin-right: auto;
-        width: 90%;
-    }
+  .contact-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
 
-    .cert-body{
-        width: 80%;
-    }
-    
-    .concerns-div{
-        margin: 30px 0;
-    }
+  .cert-body {
+    width: 80%;
+  }
 
-    .courses-div{
-        padding: 30px 30px;
-    }
+  .concerns-div {
+    margin: 30px 0;
+  }
 
-    .course{
-        border: 0px none #F2889F;
-    }
+  .courses-div {
+    padding: 30px 30px;
+  }
 
-    .services-card-header{
-        background-color: #BD0A31;
-        height: auto;
-        padding: 10px 10px;
-    }
+  .course {
+    border: 0px none #f2889f;
+  }
 
-    .hero-section{
+  .services-card-header {
+    background-color: #bd0a31;
+    height: auto;
+    padding: 10px 10px;
+  }
+
+  .hero-section {
     height: auto;
     padding: 80px 30px;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/hero-sec-img.png');
-}
+    background-image: url("../images/hero-sec-img.png");
+  }
 
-    .about-hero-section{
+  .about-hero-section {
     height: auto;
     padding: 80px 30px;
     background-position: unset;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/about-hero-image.png');
+    background-image: url("../images/about-hero-image.png");
+  }
+
+  .concerns-div {
+    padding: 40px 30px;
+  }
+
+  .navbar-div {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .hero-title-div {
+    width: 60%;
+  }
 }
 
-    .concerns-div{
-        padding: 40px 30px;
-    }
+@media screen and (max-width: 700px) {
+  .did-you-know {
+    width: 75%;
+  }
 
-    .navbar-div{
-        padding-left: 30px;
-        padding-right: 30px;
-    }
+  .footer-link {
+    margin-top: 20px;
+  }
 
-    .hero-title-div{
-        width: 60%;
-    }
-}
-
-@media screen and (max-width:700px) {
-    
-    .did-you-know{
-        width: 75%;
-    }
-
-    .footer-links{
-        margin-top: 20px;
-    }
-    
-     .hero-section{
+  .hero-section {
     height: auto;
     padding: 80px 30px;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/hero-sec-img.png');
-}
+    background-image: url("../images/hero-sec-img.png");
+  }
 
-    .about-hero-section{
+  .about-hero-section {
     height: auto;
     padding: 80px 30px;
     background-position: unset;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/about-hero-image.png');
+    background-image: url("../images/about-hero-image.png");
+  }
+
+  .footer-link {
+    margin-left: 0;
+    margin-right: 30px;
+    margin-top: 20px;
+  }
 }
 
-    .footer-link{
-        margin-left: 0;
-        margin-top: 20px;
-        display: block;
-    }
-}
+@media screen and (max-width: 630px) {
+  .did-you-know {
+    width: 55%;
+  }
 
-@media screen and (max-width:630px){
-    .did-you-know{
-        width: 55%;
-    }
+  h1 {
+    font-size: 28px;
+  }
 
-    h1{
-        font-size: 28px;
-    }
+  h2 {
+    font-size: 22px;
+  }
 
-    h2{
-        font-size: 22px;
-    }
+  p {
+    font-size: 14px;
+  }
 
-    p{
-        font-size: 14px;
-    }
-
-    a{
-        font-size: 14px;
-    }
-    .body-container{
-        padding: 30px 30px;
-    }
+  a {
+    font-size: 14px;
+  }
+  .body-container {
+    padding: 30px 30px;
+  }
 
   .footer-content {
     margin-left: 30px;
@@ -610,99 +643,99 @@ input[type=text]:focus{
     margin-bottom: 30px;
     justify-content: space-between;
   }
-    .cert-body{
-        width: 90%;
-    }
+  .cert-body {
+    width: 90%;
+  }
 
-    .card-div{
-        margin-bottom: 20px;
-    }
+  .card-div {
+    margin-bottom: 20px;
+  }
 
-    .courses-div{
-        padding: 30px 30px;
-    }
+  .courses-div {
+    padding: 30px 30px;
+  }
 
-    .concerns-div{
-        margin: 25px 0;
-    }
+  .concerns-div {
+    margin: 25px 0;
+  }
 
-    .course{
-        border: 0px none #F2889F;
-    }
+  .course {
+    border: 0px none #f2889f;
+  }
 
-    .services-card-header{
-        background-color: #BD0A31;
-        height: auto;
-        padding: 10px 10px;
-    }
+  .services-card-header {
+    background-color: #bd0a31;
+    height: auto;
+    padding: 10px 10px;
+  }
 
-    .hero-section{
+  .hero-section {
     height: auto;
     padding: 80px 30px;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/hero-sec-img.png');
-}
-    
-    .did-you-know{
-        width: 80%;
-    }
+    background-image: url("../images/hero-sec-img.png");
+  }
 
-    .about-hero-section{
+  .did-you-know {
+    width: 80%;
+  }
+
+  .about-hero-section {
     height: auto;
     padding: 80px 30px;
     background-position: unset;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/about-hero-image.png');
+    background-image: url("../images/about-hero-image.png");
+  }
+
+  .concerns-div {
+    padding: 40px 30px;
+  }
+
+  .navbar-div {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .hero-title-div {
+    width: 80%;
+  }
+
+  .contact-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
 }
 
-    .concerns-div{
-        padding: 40px 30px;
-    }
+@media screen and (max-width: 550px) {
+  .did-you-know {
+    width: 70%;
+  }
 
-    .navbar-div{
-        padding-left: 30px;
-        padding-right: 30px;
-    }
+  h1 {
+    font-size: 26px;
+  }
 
-    .hero-title-div{
-        width: 80%;
-    }
+  h2 {
+    font-size: 22px;
+  }
 
-    .contact-div{
-        margin-left: auto;
-        margin-right: auto;
-        width: 90%;
-    }
-}
+  p {
+    font-size: 14px;
+  }
 
-@media screen and (max-width:550px){
-    .did-you-know{
-        width: 70%;
-    }
+  a {
+    font-size: 14px;
+  }
 
-    h1{
-        font-size: 26px;
-    }
-
-    h2{
-        font-size: 22px;
-    }
-
-    p{
-        font-size: 14px;
-    }
-
-    a{
-        font-size: 14px;
-    }
-    
-    .body-container{
-        padding: 20px 20px;
-    }
+  .body-container {
+    padding: 20px 20px;
+  }
 
   .footer-content {
     margin-left: 20px;
@@ -713,68 +746,66 @@ input[type=text]:focus{
     margin-bottom: 30px;
     justify-content: space-between;
   }
-    
 
-    .courses-div{
-        padding: 30px 20px;
-    }
+  .courses-div {
+    padding: 30px 20px;
+  }
 
-    .card-div{
-        margin-bottom: 20px;
-    }
+  .card-div {
+    margin-bottom: 20px;
+  }
 
-    .concerns-div{
-        margin: 20px 0;
-    }
+  .concerns-div {
+    margin: 20px 0;
+  }
 
-    .cert-body{
-        width: 95%;
-    }
+  .cert-body {
+    width: 95%;
+  }
 
-    .course{
-        border: 0px none #F2889F;
-    }
+  .course {
+    border: 0px none #f2889f;
+  }
 
-    .services-card-header{
-        background-color: #BD0A31;
-        height: auto;
-        padding: 10px 10px;
-    }
-    
-    .did-you-know{
-        width: 85%;
-    }
+  .services-card-header {
+    background-color: #bd0a31;
+    height: auto;
+    padding: 10px 10px;
+  }
 
-    .hero-section{
+  .did-you-know {
+    width: 85%;
+  }
+
+  .hero-section {
     height: auto;
     padding: 80px 20px;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/hero-sec-img.png');
-}
+    background-image: url("../images/hero-sec-img.png");
+  }
 
-    .about-hero-section{
+  .about-hero-section {
     height: auto;
     padding: 80px 20px;
     background-position: unset;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../images/about-hero-image.png');
+    background-image: url("../images/about-hero-image.png");
+  }
+
+  .concerns-div {
+    padding: 40px 20px;
+  }
+
+  .navbar-div {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .hero-title-div {
+    width: 80%;
+  }
 }
-
-    .concerns-div{
-        padding: 40px 20px;
-    }
-
-    .navbar-div{
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-
-    .hero-title-div{
-        width: 80%;
-    }
-}
-
