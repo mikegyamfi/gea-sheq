@@ -21,8 +21,7 @@ h5 {
 }
 
 .hero-section {
-  height: auto;
-  padding: 100px 60px;
+  height: 70vh;
   margin-bottom: 30px;
   background-position: center;
   background-size: cover;
@@ -349,8 +348,7 @@ input[type="text"]:focus {
   }
 
   .hero-section {
-    height: auto;
-    padding: 80px 50px;
+    height: 70vh;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
@@ -387,8 +385,7 @@ input[type="text"]:focus {
   }
 
   .hero-section {
-    height: auto;
-    padding: 80px 50px;
+    height: 70vh;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
@@ -460,8 +457,7 @@ input[type="text"]:focus {
   }
 
   .hero-section {
-    height: auto;
-    padding: 80px 50px;
+    height: 50vh;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
@@ -543,8 +539,7 @@ input[type="text"]:focus {
   }
 
   .hero-section {
-    height: auto;
-    padding: 80px 30px;
+    height: 50vh;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
@@ -585,8 +580,7 @@ input[type="text"]:focus {
   }
 
   .hero-section {
-    height: auto;
-    padding: 80px 30px;
+    height: 50vh;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
@@ -670,8 +664,7 @@ input[type="text"]:focus {
   }
 
   .hero-section {
-    height: auto;
-    padding: 80px 30px;
+    height: 50vh;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
@@ -778,8 +771,7 @@ input[type="text"]:focus {
   }
 
   .hero-section {
-    height: auto;
-    padding: 80px 20px;
+    height: 45vh;
     margin-bottom: 30px;
     background-position: center;
     background-size: cover;
